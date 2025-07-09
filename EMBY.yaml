@@ -53,7 +53,7 @@ payload:
   - DOMAIN-SUFFIX,69yun69.com
   - DOMAIN-SUFFIX,sexemby.com
   - DOMAIN-SUFFIX,younoyes.com
+  - DOMAIN-SUFFIX,emby.my
   - IP-CIDR,107.181.238.190/32,no-resolve
-  - DOMAIN,emby.my
   - IP-CIDR,108.181.0.21/32,no-resolve
   - IP-CIDR,168.138.45.100/32,no-resolve
