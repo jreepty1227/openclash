@@ -57,6 +57,7 @@ payload:
   - DOMAIN-SUFFIX,mobai.sbs
   - DOMAIN-SUFFIX,3767483.xyz
   - DOMAIN-SUFFIX,zox.show
+  - DOMAIN-SUFFIX,violet.run
   - IP-CIDR,107.181.238.190/32,no-resolve
   - IP-CIDR,108.181.0.21/32,no-resolve
   - IP-CIDR,168.138.45.100/32,no-resolve
