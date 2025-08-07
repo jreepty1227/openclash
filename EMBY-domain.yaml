@@ -12,6 +12,8 @@ payload:
   - DOMAIN-SUFFIX,wangdai.us
   - DOMAIN-SUFFIX,azurefd.net
   - DOMAIN-SUFFIX,cdn.lilyemby.my
+  - DOMAIN-SUFFIX,jp.lilyemby.my
+  - DOMAIN-SUFFIX,tx.lilyemby.my
   - IP-CIDR,218.205.94.150/32,no-resolve
   - IP-CIDR,103.83.72.53/32,no-resolve
   - IP-CIDR,8.138.210.84/32,no-resolve
