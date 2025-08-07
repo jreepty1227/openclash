@@ -63,3 +63,6 @@ payload:
   - DOMAIN-SUFFIX,newneeship.com
   - DOMAIN-SUFFIX,haitunt.org
   - DOMAIN-SUFFIX,cf.lilyemby.my
+  - DOMAIN-SUFFIX,o1.lilyemby.my
+  - DOMAIN-SUFFIX,o2.lilyemby.my
+  - DOMAIN-SUFFIX,o3.lilyemby.my
