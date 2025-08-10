@@ -14,6 +14,9 @@ payload:
   - DOMAIN-SUFFIX,cdn.lilyemby.my
   - DOMAIN-SUFFIX,jp.lilyemby.my
   - DOMAIN-SUFFIX,tx.lilyemby.my
+  - DOMAIN-SUFFIX,a.115cdn.de
+  - DOMAIN-SUFFIX,b.115cdn.de
+  - DOMAIN-SUFFIX,c.115cdn.de
   - IP-CIDR,218.205.94.150/32,no-resolve
   - IP-CIDR,103.83.72.53/32,no-resolve
   - IP-CIDR,8.138.210.84/32,no-resolve
