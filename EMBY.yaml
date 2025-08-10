@@ -66,3 +66,6 @@ payload:
   - DOMAIN-SUFFIX,o1.lilyemby.my
   - DOMAIN-SUFFIX,o2.lilyemby.my
   - DOMAIN-SUFFIX,o3.lilyemby.my
+  - DOMAIN-SUFFIX,115cdn.de
+  - DOMAIN-SUFFIX,d.115cdn.de
+  - DOMAIN-SUFFIX,e.115cdn.de
