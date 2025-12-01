@@ -17,7 +17,7 @@ payload:
   - DOMAIN-SUFFIX,a.115cdn.de
   - DOMAIN-SUFFIX,b.115cdn.de
   - DOMAIN-SUFFIX,c.115cdn.de
-  - DOMAIN-SUFFIX,pdtvs.de
+  - DOMAIN-SUFFIX,v.pdtvs.de
   - DOMAIN-SUFFIX,d.pandtv.de
   - IP-CIDR,218.205.94.150/32,no-resolve
   - IP-CIDR,103.83.72.53/32,no-resolve
