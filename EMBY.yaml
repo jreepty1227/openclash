@@ -72,6 +72,6 @@ payload:
   - DOMAIN-SUFFIX,qtecrab.com
   - DOMAIN-SUFFIX,pandtv.de
   - DOMAIN-SUFFIX,sakim.org
-  - DOMAIN-SUFFIX,zhezhi.art
+  - DOMAIN,kkp.zhezhi.art
   - DOMAIN-SUFFIX,stjps.sttss.de
   - DOMAIN-SUFFIX,stnl.sttss.de
