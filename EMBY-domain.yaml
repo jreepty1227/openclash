@@ -25,6 +25,7 @@ payload:
   - DOMAIN,cdn.zhezhi.art
   - DOMAIN,v.pdtvs.de
   - DOMAIN,d.pdtvs.de
+  - DOMAIN,m,pdtvs.de
   - DOMAIN,precdns.cn2gias.uk
   - DOMAIN,s2.array2026.cc
   - IP-CIDR,218.205.94.150/32,no-resolve
