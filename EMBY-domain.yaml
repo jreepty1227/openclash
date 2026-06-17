@@ -24,9 +24,9 @@ payload:
   - DOMAIN,sntp.huachuanx.com
   - DOMAIN,1mby,hanb1ng.site
   - DOMAIN,cdn.zhezhi.art
-  - DOMAIN,v.pdtvs.de
-  - DOMAIN,d.pdtvs.de
-  - DOMAIN,m.pdtvs.de
+  - DOMAIN,v.pdtvs.com
+  - DOMAIN,d.pdtvs.com
+  - DOMAIN,m.pdtvs.com
   - DOMAIN,precdns.cn2gias.uk
   - DOMAIN,s2.array2026.cc
   - DOMAIN,v1.uhdnow.com
