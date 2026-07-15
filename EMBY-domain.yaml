@@ -12,9 +12,6 @@ payload:
   - DOMAIN-SUFFIX,emby.my
   - DOMAIN-SUFFIX,wangdai.us
   - DOMAIN-SUFFIX,azurefd.net
-  - DOMAIN-SUFFIX,cdn.lilyemby.my
-  - DOMAIN-SUFFIX,jp.lilyemby.my
-  - DOMAIN-SUFFIX,tx.lilyemby.my
   - DOMAIN-SUFFIX,a.115cdn.de
   - DOMAIN-SUFFIX,b.115cdn.de
   - DOMAIN-SUFFIX,c.115cdn.de
@@ -32,14 +29,10 @@ payload:
   - DOMAIN,v1.uhdnow.com
   - DOMAIN,tv.micu.hk
   - DOMAIN,tv1.micu.hk
-  - DOMAIN,emby.shishui.site
-  - DOMAIN,magpie.shishui.site
-  - DOMAIN,pre.shishui.site
-  - DOMAIN,panda.shishui.site
-  - DOMAIN,zhezhi.shishui.site
-  - DOMAIN,sutang.shishui.site
-  - DOMAIN,laji1111.shishui.site
   - DOMAIN,local.loseremby.org
+  - DOMAIN,ct.pdtvs.com
+  - DOMAIN,cu.pdtvs.com
+  - DOMAIN,cm.pdtvs.com
   - IP-CIDR,154.12.52.149/32,no-resolve
   - IP-CIDR,218.205.94.150/32,no-resolve
   - IP-CIDR,103.83.72.53/32,no-resolve
