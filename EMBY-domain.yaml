@@ -30,6 +30,7 @@ payload:
   - DOMAIN,ct.pdtvs.com
   - DOMAIN,cu.pdtvs.com
   - DOMAIN,cm.pdtvs.com
+  - DOMAIN,gf115.emby.moe
   - IP-CIDR,154.12.52.149/32,no-resolve
   - IP-CIDR,218.205.94.150/32,no-resolve
   - IP-CIDR,103.83.72.53/32,no-resolve
