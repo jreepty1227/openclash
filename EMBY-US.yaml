@@ -78,5 +78,6 @@ payload:
   - DOMAIN-SUFFIX,emby.moe
   - DOMAIN-SUFFIX,meowfly.de
   - DOMAIN-SUFFIX,origamiart.uk
-  - DOMAIN,cf.sfcj.org
+  - DOMAIN-SUFFIX,sfcj.org
   - DOMAIN-SUFFIX,media.emby.pro
+  - DOMAIN-SUFFIX,emby.misaka.si
